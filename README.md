@@ -1,4 +1,4 @@
-# 📸 Unsplash Gallery Clone (HTML + CSS Only)
+# 📸 Unsplash-Clone 
 
 This is a responsive, scrollable, and aesthetic **Unsplash-style image gallery** built using only **HTML and CSS**, with full-screen image previews — no JavaScript required.
 
@@ -14,11 +14,6 @@ This is a responsive, scrollable, and aesthetic **Unsplash-style image gallery**
 - 📱 Mobile responsive
 - 🚀 Deployed live on [Netlify / Vercel](#deployment)
 
----
-
-## 🖼️ Screenshot
-
-![Screenshot](./screenshot.png)
 
 ---
 
@@ -39,17 +34,4 @@ This is a responsive, scrollable, and aesthetic **Unsplash-style image gallery**
 
 ---
 
-## 🚀 Deployment
-
-This project is live at:
-
-🔗 [https://your-site-name.netlify.app](https://your-site-name.netlify.app)  
-or  
-🔗 [https://your-project-name.vercel.app](https://your-project-name.vercel.app)
-
-> Deployed using Netlify/Vercel via GitHub integration.
-
----
-
-## 📁 Project Structure
 
